@@ -1,0 +1,24 @@
+
+.mdTest {
+  color: blue;
+  font-size: 110%;
+}
+
+.mdTest2 {
+  color: green;
+}
+
+
+.mdRight, .mdTrue {
+  color: green;
+}
+.mdWrong, .mdFalse {
+  color: red;
+}
+
+
+
+span {
+  text-shadow: 0 0 2px white;
+  z-index: 1;
+}

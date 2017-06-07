@@ -1,0 +1,12 @@
+{
+  "parts": [
+    {
+      "name": "main",
+      "client_hooks": {
+        "aceEditorCSS": "ep_giftify/static/js/index",
+        "aceGetFilterStack": "ep_giftify/static/js/index:aceGetFilterStack",
+        "aceCreateDomLine": "ep_giftify/static/js/index:aceCreateDomLine"
+      }
+    }
+  ]
+}

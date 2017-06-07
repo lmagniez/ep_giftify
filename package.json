@@ -1,0 +1,90 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ep_giftify",
+        "scope": null,
+        "escapedName": "ep_giftify",
+        "name": "ep_giftify",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/culnumerique/etherpad-lite"
+    ]
+  ],
+  "_from": "ep_giftify@latest",
+  "_id": "ep_giftify@0.0.3",
+  "_inCache": true,
+  "_location": "/ep_giftify",
+  "_npmUser": {
+    "name": "f0i",
+    "email": "f0i.npm@projects.f0i.de"
+  },
+  "_npmVersion": "1.4.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ep_giftify",
+    "scope": null,
+    "escapedName": "ep_giftify",
+    "name": "ep_giftify",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/ep_giftify/-/ep_giftify-0.0.3.tgz",
+  "_shasum": "0bb755d816cfe99ebe35b3f8b7520230a69e6ec1",
+  "_shrinkwrap": null,
+  "_spec": "ep_giftify",
+  "_where": "/home/culnumerique/etherpad-lite",
+  "author": {
+    "name": "f0i",
+    "email": "f0i.etherpad@projects.f0i.de"
+  },
+  "bugs": {
+    "url": "https://github.com/f0i/etherpad-plugins/issues"
+  },
+  "contributors": [
+    {
+      "name": "Martin Sigloch",
+      "email": "martin.etherpad@projects.f0i.de"
+    },
+    {
+      "name": "Matthias Bartelmeß",
+      "email": "mba@fourplusone.de"
+    },
+    {
+      "name": "John McLear",
+      "email": "john@mclear.co.uk"
+    }
+  ],
+  "dependencies": {},
+  "description": "Inline gift formating.  Format headings, show images, highlight lists, tables and more.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0bb755d816cfe99ebe35b3f8b7520230a69e6ec1",
+    "tarball": "https://registry.npmjs.org/ep_giftify/-/ep_giftify-0.0.3.tgz"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://projects.f0i.de/etherpad/giftify.md",
+  "maintainers": [
+    {
+      "name": "f0i",
+      "email": "f0i.npm@projects.f0i.de"
+    }
+  ],
+  "name": "ep_giftify",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/f0i/etherpad-plugins.git"
+  },
+  "version": "0.0.3"
+}
