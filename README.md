@@ -1,4 +1,4 @@
-#Plugin for Esc@pad's etherpad-lite instance.
+# Plugin for Esc@pad's etherpad-lite instance.
 
 This is an original plugin inspired by the ep_markdownify plugin for etherpad-lite. We can do for now simple syntax colorization.
 
